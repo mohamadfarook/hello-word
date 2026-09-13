@@ -11,3 +11,4 @@ I am a hardworking, responsible, and quick-learning person. I always try to lear
 My short-term goal is to get a good opportunity in the IT field, and my long-term goal is to build a successful career in the IT industry.
 
 Thank you for giving me the opportunity to introduce myself.
+Commit changes
